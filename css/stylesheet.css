@@ -1,0 +1,31 @@
+.bg-yazi {
+    color:#242424;
+    }
+.sira {
+    color:#F2F2F2;
+    font-size: 32px;
+}
+.nav {
+    position:fixed;
+}
+.cat {
+    background-color: #F2F2F2;
+    color: #242424;
+    border: 1px solid #F2F2F2;
+    border-radius:30px;
+}
+.category a {
+    margin-bottom: 10px;
+}
+.settings a {
+
+    color: #6B6B6B;
+    margin: 5px;
+}
+.mini {
+    color: #6B6B6B;
+    background-color: #F2F2F2;
+    border-radius: 100px;
+    padding: 2px 8px;
+    font-size: 13px;
+}
